@@ -9,7 +9,8 @@ Build-Depends: cmake,
                libkf5coreaddons-dev,
                libkf5people-dev (>= 5.12.0+git20150715),
                pkg-config,
-               pkg-kde-tools (>= 0.15.15ubuntu1~)
+               pkg-kde-tools (>= 0.15.15ubuntu1~),
+               qtbase5-dev
 Standards-Version: 3.9.6
 
 Package: kpeople-vcard
