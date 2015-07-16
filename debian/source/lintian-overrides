@@ -1,0 +1,2 @@
+# Its a list of linters with it's licenses, not a license for this file
+kate source: license-problem-json-evil addons/pate/src/plugins/js_utils/js_lint.py
